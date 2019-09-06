@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17838" started-at="2019-08-20T22:01:54Z" finished-at="2019-08-20T22:02:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17838" started-at="2019-08-20T22:01:54Z" finished-at="2019-08-20T22:02:12Z">
+      <class name="scripts.grabarVideoHooly">
+        <test-method status="PASS" signature="ejecutarBrowser()[pri:0, instance:scripts.grabarVideoHooly@6b71769e]" name="ejecutarBrowser" is-config="true" duration-ms="6441" started-at="2019-08-20T18:01:54Z" finished-at="2019-08-20T18:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ejecutarBrowser -->
+        <test-method status="PASS" signature="ingresarRutInvalido()[pri:0, instance:scripts.grabarVideoHooly@6b71769e]" name="ingresarRutInvalido" duration-ms="2922" started-at="2019-08-20T18:02:01Z" finished-at="2019-08-20T18:02:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ingresarRutInvalido -->
+        <test-method status="PASS" signature="cargarEvidencias()[pri:1, instance:scripts.grabarVideoHooly@6b71769e]" name="cargarEvidencias" duration-ms="3002" started-at="2019-08-20T18:02:03Z" finished-at="2019-08-20T18:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cargarEvidencias -->
+        <test-method status="PASS" signature="cerrarBrowser()[pri:0, instance:scripts.grabarVideoHooly@6b71769e]" name="cerrarBrowser" is-config="true" duration-ms="5464" started-at="2019-08-20T18:02:06Z" finished-at="2019-08-20T18:02:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarBrowser -->
+      </class> <!-- scripts.grabarVideoHooly -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
